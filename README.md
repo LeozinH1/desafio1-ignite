@@ -1,3 +1,13 @@
+## Repositórios da aplicação
+
+Com o repositório criado a partir do template e clonado na sua máquina, navegue até os arquivos **`src/modules/users/repositories/implementations/UsersRepository.ts`** e **`src/modules/games/repositories/implementations/GamesRepository.ts`**.
+Esses deverão ser completados para que os testes sejam satisfeitos.
+
+<aside>
+💡 Observe que alguns métodos já possuem parte do código inserido para indicar que você deve usar ORM, query builder ou raw query nas consultas.
+
+</aside>
+
 ### UsersRepository
 
 - Método **findUserWithGamesById**
