@@ -42,7 +42,8 @@ Esses deverão ser completados para que os testes sejam satisfeitos.
 
   ```
 
-- Método **findAllUsersOrderedByFirstName**
+- Método 
+findAllUsersOrderedByFirstName**
 
   Esse método deve retornar a listagem de usuários cadastrados em ordem alfabética (**ASC**).
 
@@ -66,13 +67,13 @@ Esses deverão ser completados para que os testes sejam satisfeitos.
   [
     {
       id: "63a6c35a-ac97-4773-9021-fb93973c8139",
-      title: "Need F**or S**peed: Payback",
+      title: "Need F|or S|peed: Payback",
       created_at: "2021-03-19 19:35:09.877037",
       updated_at: "2021-03-19 19:35:09.877037",
     },
     {
       id: "74e4fc3b-434d-4452-94eb-27a85dce8d1a",
-      title: "Need F**or S**peed: Underground",
+      title: "Need F|or S|peed: Underground",
       created_at: "2021-03-19 19:35:09.877037",
       updated_at: "2021-03-19 19:35:09.877037",
     },
